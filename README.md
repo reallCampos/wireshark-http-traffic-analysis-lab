@@ -40,3 +40,10 @@ Análise de pacotes, segurança de redes, fundamentos de TCP/IP, identificação
 
 ## Aviso ético
 Projeto destinado exclusivamente a fins educacionais em ambiente autorizado. Utilize somente credenciais fictícias e mantenha sistemas vulneráveis isolados.
+
+- CWE-319 — Cleartext Transmission of Sensitive Information
+- Impacto: comprometimento da confidencialidade.
+- Causa: transmissão de credenciais sem criptografia via HTTP.
+- Mitigação: implementação de HTTPS com TLS.
+
+Referência: https://cwe.mitre.org/data/definitions/319.html
