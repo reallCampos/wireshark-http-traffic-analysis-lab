@@ -24,7 +24,7 @@ flowchart LR
 4. Identificação de dados de autenticação transmitidos em texto claro.
 
 ## Demonstração prática
-[Assistir ao vídeo](video/wireshark-http-credentials-capture.mp4)
+[▶️ Assistir ao vídeo](video/wireshark-http-credentials-capture.mp4)
 
 ## Resultados
 A captura demonstrou a exposição de credenciais em comunicações HTTP sem criptografia. O laboratório analisa o tráfego do próprio cliente, não constituindo uma demonstração de ataque MITM.
